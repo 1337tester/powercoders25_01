@@ -1,4 +1,4 @@
-from RepeatedString import repeated_string
+from repeated_string import repeated_string
 
 def test_repeated_string():
     """Test the repeated_string function"""
