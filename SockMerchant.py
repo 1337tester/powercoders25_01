@@ -11,7 +11,7 @@ def sock_merchant(ar):
     return ans
 
 
-n = int(input().strip())
-ar = list(map(int, input().strip().split(' ')))
-result = sock_merchant(ar)
-print(result)
+# n = int(input().strip())
+# ar = list(map(int, input().strip().split(' ')))
+# result = sock_merchant(ar)
+# print(result)
