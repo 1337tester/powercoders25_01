@@ -12,6 +12,6 @@ def jumping_on_clouds(n, c):
     return ans
 
 
-n = int(input())
-c = list(map(int, input().rstrip().split()))
-print(jumping_on_clouds(n, c))
+#n = int(input())
+#c = list(map(int, input().rstrip().split()))
+#print(jumping_on_clouds(n, c))
