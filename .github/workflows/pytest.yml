@@ -2,9 +2,9 @@ name: Pytest Pipeline
 
 on:
   push:
-    branches: [ main ]
+    branches: [ masta ]
   pull_request:
-    branches: [ main ]
+    branches: [ masta ]
 
 jobs:
   test:
